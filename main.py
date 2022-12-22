@@ -11,8 +11,8 @@ Syntax:
 variable_name = value
 '''
 n = 10                      # int
-pi = 3.14                   # double
-half = 1 / 2                # double
+pi = 3.14                   # float
+half = 1 / 2                # float
 name = "11"                 # str
 str_ten = "10"              # str
 
