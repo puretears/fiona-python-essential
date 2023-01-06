@@ -66,3 +66,4 @@ while divider <= num:
         divider = 2
     else:
         divider = divider + 1
+
